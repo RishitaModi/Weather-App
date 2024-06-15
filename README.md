@@ -1,7 +1,7 @@
 
 # Weather-App
 
-WeatherApp is a sleek and intuitive weather application designed to provide users with accurate and up-to-date weather information. 
+Welcome to the Weather App repository! WeatherApp is a sleek and intuitive weather application designed to provide users with accurate and up-to-date weather information. 
 Built with a user-friendly interface, WeatherApp offers a seamless experience for accessing real-time weather data, forecasts, and weather-related insights.
 
 Creating a weather app using HTML, CSS, and JavaScript involves several steps, including setting up your project, designing the interface, fetching data from the OpenWeatherMap API, and displaying that data. 
